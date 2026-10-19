@@ -1,0 +1,6 @@
+{
+  "name": "AuraSlides · Interactive Presentation Studio",
+  "description": "An immersive, interactive presentation platform exploring the psychology of courage and action, featuring live audience reframing, interactive loops, micro-timers, and presenter tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
